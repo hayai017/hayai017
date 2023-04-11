@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **hayai017/hayai017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# プロフィール
+
+名前：池之内颯都
+
+所属：愛媛大学 工学部 工学科 コンピュータ科学コース
+
+学年：学部4年

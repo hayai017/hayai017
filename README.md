@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 所属：愛媛大学 工学部 工学科 コンピュータ科学コース
 
 学年：学部4年
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayai017)](https://github.com/anuraghazra/github-readme-stats)

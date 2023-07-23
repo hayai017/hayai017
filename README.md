@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # プロフィール
 
-名前：池之内颯都
+名前：池之内颯都(Ikenouchi Hayato)
 
 所属：愛媛大学 工学部 工学科 コンピュータ科学コース / マルチメディア研究室 (2022/10 ~ 現在)
 

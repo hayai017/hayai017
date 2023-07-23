@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 
 学年：学部4年
 
+河村 和紀, 池之内 颯都, 石川 峻弥, 村上 綾菜, 河野 慎, 松尾 豊
+
+類似グラフ環境における事前知識を活用した方策学習のための世界モデル
+
+https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2G4OS21d04/_pdf/-char/ja
+
 
 <a href="https://github.com/tocoteron">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=hayai017&count_private=true&show_icons=true&theme=dracula" />

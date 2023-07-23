@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 所属：愛媛大学 工学部 工学科 コンピュータ科学コース / マルチメディア研究室 (2022/9 ~ 現在)
 
-      University of Malaya Faculty of Computer Science and Information Technology (2023/8 ~ 2023/9)
+短期留学：University of Malaya Faculty of Computer Science and Information Technology (2023/8 ~ 2023/9)
 
 学年：学部4年
 

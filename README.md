@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 河村 和紀, 池之内 颯都, 石川 峻弥, 村上 綾菜, 河野 慎, 松尾 豊
 
 類似グラフ環境における事前知識を活用した方策学習のための世界モデル
+<a href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2G4OS21d04/_article/-char/ja/">[link]</a>
 
-https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2G4OS21d04/_pdf/-char/ja
+
 
 
 <a href="https://github.com/tocoteron">

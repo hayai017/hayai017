@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 学年：学部4年
 
+マラヤ大学 August 2023 - September 2023
+
 # 研究業績
 
 - 河村和紀, 池之内颯都, 石川峻弥, 村上綾菜, 河野慎, 松尾豊

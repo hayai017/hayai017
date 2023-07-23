@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 学年：学部4年
 
-マラヤ大学 August 2023 - September 2023
 
 # 研究業績
 

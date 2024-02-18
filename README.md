@@ -38,9 +38,10 @@ Here are some ideas to get you started:
   人工知能学会第37回全国大会, 2023/6.
 <a href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2G4OS21d04/_article/-char/ja/">[link]</a>
 
+<!--
 # 資格
 - TOEIC 685
-
+-->
 
 <a href="https://github.com/tocoteron">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=hayai017&count_private=true&show_icons=true&theme=dracula" />

@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 # プロフィール
 
 名前：池之内颯都 (Ikenouchi Hayato)
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   人工知能学会第37回全国大会, 2023/6.
 <a href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2G4OS21d04/_article/-char/ja/">[link]</a>
 
-
+<!--
 # 資格
 - TOEIC 685
 -->

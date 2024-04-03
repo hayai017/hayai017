@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 名前：池之内颯都 (Ikenouchi Hayato)
 
-所属：愛媛大学 工学部 工学科 コンピュータ科学コース / マルチメディア研究室 (2022/10 ~ 現在)
+所属：愛媛大学大学院 理工学研究科 理工学専攻 数理情報プログラム / マルチメディア研究室 (2022/10 ~ 現在)
 
-学年：学部4年
+学年：修士1年
 
 短期留学：University of Malaya Faculty of Computer Science and Information Technology (2023/8 ~ 2023/9)
 
@@ -41,9 +41,10 @@ Here are some ideas to get you started:
 
 <!--
 # 資格
-- TOEIC 685
+- TOEIC 720
 -->
-
+# 資格
+- TOEIC 720
 <a href="https://github.com/tocoteron">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=hayai017&count_private=true&show_icons=true&theme=dracula" />
 </a>

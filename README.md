@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 学年：修士1年
 
 短期留学：University of Malaya Faculty of Computer Science and Information Technology (2023/8 ~ 2023/9)
-<a href="https://studyabroad.isc.ehime-u.ac.jp/cms/?p=4440">[link]</a>
+<a href="http://kokusai.eng.ehime-u.ac.jp/haken/">[link1]</a>
+<a href="https://studyabroad.isc.ehime-u.ac.jp/cms/?p=4440">[link2]</a>
 
 
 

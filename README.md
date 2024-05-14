@@ -41,6 +41,20 @@ Here are some ideas to get you started:
   人工知能学会第37回全国大会, 2023/6.
 <a href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2G4OS21d04/_article/-char/ja/">[link]</a>
 
+- Hayato Ikenouchi, Haruto Hirose, and Toshiyuki Uto
+  
+  Backdoor Defense with Colored Patches for Machine Learning Models
+ 
+  The 39th International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC 2024) , 2024/7
+<a href="https://www.itc-cscc2024.org/">[link]</a>
+ 
+- Haruto Hirose, Hayato Ikenouchi and Toshiyuki Uto
+  
+  Image Watermarking with Grouped Convolution and Residual Network
+  
+  The 39th International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC 2024) , 2024/7
+<a href="https://www.itc-cscc2024.org/">[link]</a>
+
 <!--
 # 資格
 - TOEIC 720

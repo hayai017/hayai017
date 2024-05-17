@@ -47,14 +47,14 @@ Here are some ideas to get you started:
  
   The 39th International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC 2024) , 2024/7
 <a href="https://www.itc-cscc2024.org/">[link]</a>
- 
+ <!--
 - Haruto Hirose, Hayato Ikenouchi and Toshiyuki Uto
   
   Image Watermarking with Grouped Convolution and Residual Network
   
   The 39th International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC 2024) , 2024/7
 <a href="https://www.itc-cscc2024.org/">[link]</a>
-
+-->
 <!--
 # 資格
 - TOEIC 720

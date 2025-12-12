@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 所属：愛媛大学大学院 理工学研究科 理工学専攻 数理情報プログラム / マルチメディア研究室 (2022/10 ~ 現在)
 
-学年：修士1年
+学年：修士2年
 
 短期派遣プログラム(短期留学)：University of Malaya Faculty of Computer Science and Information Technology (2023/8 ~ 2023/9)
 <a href="http://kokusai.eng.ehime-u.ac.jp/haken/">[link1]</a>

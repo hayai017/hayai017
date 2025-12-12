@@ -37,8 +37,9 @@ Here are some ideas to get you started:
 - 河村和紀, 池之内颯都, 石川峻弥, 村上綾菜, 河野慎, 松尾豊
   
   類似グラフ環境における事前知識を活用した方策学習のための世界モデル
-<a href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2G4OS21d04/_article/-char/ja/">[link]</a>  
+  
   人工知能学会第37回全国大会, 2023/6.
+<a href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_2G4OS21d04/_article/-char/ja/">[link]</a>
 
 - 池之内颯都, 宇戸寿幸
 
